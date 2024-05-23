@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_QTYDescription1Sauce Labs Backpackcarry_9dc1bc</name>
+   <tag></tag>
+   <elementGuidId>ff7b4d36-2d1e-48df-bef9-c50b954dd6cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#checkout_summary_container > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout_summary_container']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;checkout-summary-container&quot;] div >> internal:has-text=&quot;QTYDescription1Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlin&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>04459fcd-e0eb-44fe-82a1-697f40f2dc56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QTYDescription1Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Payment Information:SauceCard #31337Shipping Information:Free Pony Express Delivery!Price TotalItem total: $29.99Tax: $2.40Total: $32.39CancelFinish</value>
+      <webElementGuid>e67b2230-b4a1-4a29-9aef-aea9cbc4de5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_summary_container&quot;)/div[1]</value>
+      <webElementGuid>ea0232b5-faa1-4ab3-847f-9ac07fea2634</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout_summary_container']/div</value>
+      <webElementGuid>54c5837f-d8f6-459a-af8f-0e9307032507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout: Overview'])[1]/following::div[2]</value>
+      <webElementGuid>6d1bd152-88cb-4d97-ab01-fe9a71dcfcbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::div[4]</value>
+      <webElementGuid>57db29de-fa92-4c2e-b7f8-7952f3ed0624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>535e5842-af14-4d8b-84dc-0deef3ac3273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'QTYDescription1Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Payment Information:SauceCard #31337Shipping Information:Free Pony Express Delivery!Price TotalItem total: $29.99Tax: $2.40Total: $32.39CancelFinish' or . = 'QTYDescription1Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Payment Information:SauceCard #31337Shipping Information:Free Pony Express Delivery!Price TotalItem total: $29.99Tax: $2.40Total: $32.39CancelFinish')]</value>
+      <webElementGuid>4e9bf2ba-6d26-4445-840a-e1e6abbffe9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
